@@ -16,7 +16,7 @@ Charismatic and dependable with 7 years of experience delivering educational ass
 # Skills
 * **computer maintenance**
 * **typing speed:** 200|230 ch/min
-* **linux (basic**
+* **linux (basic)**
 * **html/css**
 * **VsCode**
 
