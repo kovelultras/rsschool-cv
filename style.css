@@ -1,1 +1,238 @@
-p {color: blue;}
+    body 
+    {
+    height: 1442px;
+    width: 995px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid grey;
+    background-color: white;
+    background: linear-gradient(grey,white);
+    }
+.he
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-shadow: 1px 1px 2px black;
+    background-color: white; 
+    width: 100%;
+}
+
+    .header
+    {
+    background-color: grey;
+    background: linear-gradient(white, grey);
+    color: white;
+    text-align: center;
+    height: 18%;
+    width: 70%;
+    position:relative;
+    float: right;
+    padding-top: 20px;
+    margin-top: 0;
+
+
+    }
+    .h1
+    {
+        padding-top: 18%;
+        margin-left: auto;
+        margin-right: auto;
+        text-shadow: 3px 1px 2px black;
+        text-align: center;
+        font-size: 45px;
+        
+    }
+
+    #main 
+    {
+    float: left;
+    background-color: black;
+    color: azure;
+    width: 35%;
+    margin: 0;
+    height: 72%;
+    box-sizing: border-box;
+    text-shadow: 1px 1px 2px black;
+
+    }
+
+    #aside 
+    {
+    float: right;
+    width: 65%;
+    margin: 0;
+    background-color:rgb(250, 244, 244);
+    color: black;
+    margin: 0;
+    height: 72%;
+    position: static;
+    text-shadow: 1px 1px 2px wheat;
+    }
+
+    #contacts 
+    {
+    padding-left: 2%;
+    font-size: 25px;
+    text-align: center;
+    margin: 0;
+    background-color: goldenrod;
+    color: azure;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px black;
+    }
+
+    #contacts-info 
+    {
+
+    color: white;
+    text-align:center;
+    font-size: 15px;
+    }
+
+    #skills 
+    {
+    padding-left: 2%;
+    font-size: 25px;
+    text-align: center;
+    margin: 0;
+    background-color: goldenrod;
+    color: azure;
+    font-weight: bold; 
+    }
+
+    #skills-info 
+    {
+
+    color: white;
+    text-align:center;
+    font-size: 15px;
+    }
+
+    #languages 
+    {
+    padding-left: 2%;
+    font-size: 25px;
+    text-align: center;
+    margin: 0;
+    background-color: goldenrod;
+    color: azure;
+    font-weight: bold; 
+    }
+        
+    #lang-info 
+    {
+
+    color: white;
+    text-align:center;
+    font-size: 15px;
+    }
+
+    #hobbies 
+    {
+    padding-left: 2%;
+    font-size: 25px;
+    text-align: center;
+    margin: 0;
+    background-color: goldenrod;
+    color: azure;
+    font-weight: bold; 
+    }
+            
+    #hobbies-info 
+    {
+
+    color: white;
+    text-align:center;
+    font-size: 15px;
+    }
+
+    hr 
+    {
+    width: 40%;
+    }
+
+    #aboutme 
+    {
+    padding-left: 2%;
+    padding-top: 1%;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    color: black;
+    font-weight: bold;
+    }
+
+    #me-info
+    {
+    text-align:center;
+    font-size: 20px;
+    }
+    #education 
+    {
+    padding-left: 2%;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    font-weight: bold;
+    }
+
+    #edu-info
+    {
+    text-align:center;
+    font-size: 15px;
+    }
+
+    #work 
+    {
+    padding-left: 2%;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    font-weight: bold;
+    }
+
+    #work-info
+    {
+    text-align:center;
+    font-size: 15px;
+    }
+    #ex 
+    {
+    padding-left: 2%;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    font-weight: bold;
+    }
+
+    #work-ex
+    {
+    text-align:center;
+    font-size: 15px;
+    }
+    .footer 
+    {
+    clear: both;
+    background-color: grey;
+    background: linear-gradient(white, grey);
+
+    }
+    .footer-logo
+    {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0;
+        
+    }
+    .year
+    {
+
+    float: right;
+    color: aliceblue;
+    padding-right: 10px;
+    padding-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    }
